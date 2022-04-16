@@ -11,6 +11,6 @@ REACT_APP_URL_API="__API_URL__"
 npm install
 ```
 - Launch app
-- ```bash
+```bash
 npm start
 ```
