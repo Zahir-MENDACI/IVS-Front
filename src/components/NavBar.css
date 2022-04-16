@@ -1,0 +1,10 @@
+.NavBar{
+    height: 5vh;
+    display: flex;
+    justify-content: left;
+}
+
+.NavBar ul{
+    display: flex;
+    gap: 20px;
+}
